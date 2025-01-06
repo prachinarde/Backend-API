@@ -116,4 +116,4 @@ Import the Postman collection from the `postman` directory to test the APIs.
 
 ## Deployment
 
-The application is deployed on [Render] and can be accessed at [(https://backend-api-7b6x.onrender.com/)].
+The application is deployed on [Render] and can be accessed at [(https://backend-api-acuo.onrender.com)].
